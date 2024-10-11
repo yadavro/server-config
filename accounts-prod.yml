@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs "
   contactDetails:
     name: "John Doe - prod Lead"
-    email: "john@eazybank.com"
+    email: "{cipher}8083e7ba8dff97009f3531a41432f9f452e96bd7415734559e00598f53c23ce0367f01763219bb7dcd44dd44312a2ffb"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
